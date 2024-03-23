@@ -2,7 +2,7 @@
 
 ## Scope
 
-To get a better grasp of numerical methods the concepts of these methods are explore using `Python`.
+To get a better grasp of numerical methods the concepts of these methods are explored using `Python`.
 
 ---
 
